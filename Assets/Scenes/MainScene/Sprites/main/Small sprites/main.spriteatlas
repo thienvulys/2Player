@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: main
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7c7e0af758392754eb7415f056fb5d95, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6ff9695039fe1fd429bf68d8a812f187, type: 3}
+  - {fileID: 21300000, guid: 9872bf703aebadb4b8ed63fe83d5c6ae, type: 3}
+  - {fileID: 21300000, guid: 233420c18295627479d4390ad36b8bc1, type: 3}
+  - {fileID: 21300000, guid: 6f66f692db2c51f499d11a560fc600ae, type: 3}
+  - {fileID: 21300000, guid: e5743fb267085f6438c70de066b71629, type: 3}
+  - {fileID: 21300000, guid: 794029e38f5b16d48bba1b84450257dc, type: 3}
+  - {fileID: 21300000, guid: be5adb34cab8df445a63aab10fb9b946, type: 3}
+  - {fileID: 21300000, guid: 46c62b6512f4ab84a804261b784e8f83, type: 3}
+  - {fileID: 21300000, guid: 4bd36b97d4da74244923c30cc628c9ae, type: 3}
+  - {fileID: 21300000, guid: 110297d706c4ef94cacb3ed370eb6a8b, type: 3}
+  - {fileID: 21300000, guid: 53cd25786e1842e4a82a020c2e450dfe, type: 3}
+  - {fileID: 21300000, guid: 68f44888dab62a84aa0d176d5c476a69, type: 3}
+  - {fileID: 21300000, guid: 1c7818d8ce1937346909d5c6d00d5e6b, type: 3}
+  - {fileID: 21300000, guid: 85a3a4292968ae0409f7a1f32de021a9, type: 3}
+  - {fileID: 21300000, guid: 1f5d41697787a964fbe72b08d80e4d54, type: 3}
+  - {fileID: 21300000, guid: b5e659a94215bb74db149d0def61fda2, type: 3}
+  - {fileID: 21300000, guid: 73dbea3a2ab034b49a22cd419abe3cb6, type: 3}
+  - {fileID: 21300000, guid: 6cc06dab28d28614cbcac2f78c7a3e7d, type: 3}
+  - {fileID: 21300000, guid: 65f78b7d169b0e84390a726823d3a612, type: 3}
+  - {fileID: 21300000, guid: fe4fdc9d7edaf0e4590943ebd6e6ad6d, type: 3}
+  - {fileID: 21300000, guid: 3347764eae4e74e47bd60139aca2ace4, type: 3}
+  - {fileID: 21300000, guid: c2ecc5fe09bfb774688b213a973ac8d7, type: 3}
+  - {fileID: 21300000, guid: d605b6feb101d0e47bb311776c6b8dde, type: 3}
+  - {fileID: 21300000, guid: 78c3cd6fe3ae2a146b6c950b335ffaf1, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - cup
+  - removed_ads
+  - setting_button
+  - do
+  - dai_tournament
+  - thanh_xanh
+  - dong_ho_icon
+  - xanh
+  - crown
+  - giay
+  - chan_cho
+  - mark_icon
+  - vang
+  - setting_icon
+  - cat
+  - thanh_do
+  - dog
+  - khung_dut
+  - khung_anh
+  - chan_meo
+  - sao_on
+  - sao_off
+  - thanh_vang
+  - home_icon
+  m_RenderDataMap: {}
+  m_Tag: main
+  m_IsVariant: 0

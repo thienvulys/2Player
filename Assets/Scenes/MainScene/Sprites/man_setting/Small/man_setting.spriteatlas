@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: man_setting
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 980b5b89608848f4d9a0c073b94355c3, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8b33e361d9f4be44eaea6dfd902fcfaf, type: 3}
+  - {fileID: 21300000, guid: b34b0ce3653140148bb45dc9f199bb91, type: 3}
+  - {fileID: 21300000, guid: 5e2bdd350a43e3540924d4a6b7fdb38e, type: 3}
+  - {fileID: 21300000, guid: 9640c8169a4edb24eb130120d15c1d3c, type: 3}
+  - {fileID: 21300000, guid: df56b3e7af3656b458a91bf8c958a045, type: 3}
+  - {fileID: 21300000, guid: cc954aa8c27f3094dbf805b9f3200ee4, type: 3}
+  - {fileID: 21300000, guid: a403fd2acac3924428f0b131f88f1b78, type: 3}
+  - {fileID: 21300000, guid: 9393c9faaff995f438a2d56b0d28a03e, type: 3}
+  - {fileID: 21300000, guid: f3b5013ceef01f4499f62da33bca40bd, type: 3}
+  - {fileID: 21300000, guid: 51ef2d3d8ca95cc46ae3161b48381a2d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - sound
+  - thanh_rung
+  - rung_disable
+  - music
+  - thanh_vibration
+  - thanh_keo_disable
+  - thanh_keo
+  - hinh_tron
+  - thanh_setting
+  - rung
+  m_RenderDataMap: {}
+  m_Tag: man_setting
+  m_IsVariant: 0
